@@ -28,7 +28,7 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## 👨‍💻 About Me
 
-```yaml
+
 name: Amanshu Sharma
 role: Computer Science Student
 status: Fresher
