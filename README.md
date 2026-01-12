@@ -1,41 +1,30 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hey%20Everyone!&fontSize=40&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hey%20I’m%20Amanshu!&fontSize=40"/>
 </p>
 
-<!-- ===================== INTRO ===================== -->
-<h2 align="center">I'm Amanshu Sharma 👋</h2>
-<h4 align="center">Computer Science Student | Web Dev | Python | AI Enthusiast</h4>
-
-<!-- ===================== SOCIAL LINKS ===================== -->
+<!-- ================= TANJIRO GIF ================= -->
 <p align="center">
-  <a href="https://github.com/amanshu999">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/amanshu404/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="30"/>
-  </a>
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR2b3BtbHozcW1tbXRsd2h0dTN5emx6bTVqOHg0YW9ibW96OXJqZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" 
+    width="400" 
+    alt="Tanjiro Kamado"/>
 </p>
 
-<!-- ===================== TANJIRO GIF ===================== -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR2b3BtbHozcW1tbXRsd2h0dTN5emx6bTVqOHg0YW9ibW96OXJqZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="420"/>
-</p>
+<h3 align="center">Computer Science Student | Python | Web Dev | AI Learner</h3>
 
-<!-- ===================== ABOUT ME ===================== -->
+---
+
 ## 👨‍💻 About Me
 
 
 name: Amanshu Sharma
-role: Computer Science Student
+education: Diploma in Computer Engineering
 status: Fresher
-currently_learning:
+learning:
   - Python
   - Web Development
-  - AI & ML Basics
+  - AI Basics
 skills:
   - HTML
   - CSS
@@ -45,17 +34,11 @@ interests:
   - Building real-world projects
   - Open Source
   - Anime (Demon Slayer ⚔️)
-goal_2026: Become a strong full-stack + AI developer
-
-
-<!-- ===================== TECH STACK ===================== -->
-🧰 Tools & Technologies
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/> </p> <!-- ===================== GITHUB STATS ===================== -->
+goal: Become a strong developer with real skills
+🧰 Tech Stack
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> </p>
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amanshu999&show_icons=true&theme=tokyonight"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanshu999&layout=compact&theme=tokyonight"/> </p> <!-- ===================== SNAKE ===================== -->
-🐍 Contribution Graph
-<p align="center"> <img src="https://github.com/amanshu999/amanshu999/blob/output/github-contribution-grid-snake.svg"/> </p> <!-- ===================== FOOTER ===================== --> <p align="center"> ⚡ <i>"Set your heart ablaze."</i> – Rengoku </p> ```
-
-
-
-
+<p> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/> </p> <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/> </p>
+🐍 Contribution Snake
+<p> <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/> </p>
+<p align="center"> ⚔️ <i>“Set your heart ablaze.”</i> </p>  
