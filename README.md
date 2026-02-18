@@ -3,7 +3,7 @@
 <!-- Anime Coder -->
 <img src="./anime-coder.jpg" width="400"/>
 <br>
-
+<br>
 <!-- Social badges with logo icons -->
 <a href="https://www.amanshu.in/">
   <img src="https://img.shields.io/badge/PORTFOLIO-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/>
