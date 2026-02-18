@@ -2,6 +2,7 @@
 
 <!-- Anime Coder -->
 <img src="./anime-coder.jpg" width="400"/>
+<br>
 
 <!-- Social badges with logo icons -->
 <a href="https://www.amanshu.in/">
